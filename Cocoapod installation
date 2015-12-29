@@ -1,2 +1,3 @@
 Installing CocoaPods
 sudo gem install cocoapods -V 
+http://www.raywenderlich.com/97014/use-cocoapods-with-swift
